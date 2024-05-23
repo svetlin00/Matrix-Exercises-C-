@@ -1,0 +1,15 @@
+C:\Users\ergel\source\repos\1. Sum Matrix Elements\2. Sum Matrix Columns\bin\Debug\net6.0\2. Sum Matrix Columns.exe
+C:\Users\ergel\source\repos\1. Sum Matrix Elements\2. Sum Matrix Columns\bin\Debug\net6.0\2. Sum Matrix Columns.deps.json
+C:\Users\ergel\source\repos\1. Sum Matrix Elements\2. Sum Matrix Columns\bin\Debug\net6.0\2. Sum Matrix Columns.runtimeconfig.json
+C:\Users\ergel\source\repos\1. Sum Matrix Elements\2. Sum Matrix Columns\bin\Debug\net6.0\2. Sum Matrix Columns.dll
+C:\Users\ergel\source\repos\1. Sum Matrix Elements\2. Sum Matrix Columns\bin\Debug\net6.0\2. Sum Matrix Columns.pdb
+C:\Users\ergel\source\repos\1. Sum Matrix Elements\2. Sum Matrix Columns\obj\Debug\net6.0\2. Sum Matrix Columns.csproj.AssemblyReference.cache
+C:\Users\ergel\source\repos\1. Sum Matrix Elements\2. Sum Matrix Columns\obj\Debug\net6.0\2. Sum Matrix Columns.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ergel\source\repos\1. Sum Matrix Elements\2. Sum Matrix Columns\obj\Debug\net6.0\2. Sum Matrix Columns.AssemblyInfoInputs.cache
+C:\Users\ergel\source\repos\1. Sum Matrix Elements\2. Sum Matrix Columns\obj\Debug\net6.0\2. Sum Matrix Columns.AssemblyInfo.cs
+C:\Users\ergel\source\repos\1. Sum Matrix Elements\2. Sum Matrix Columns\obj\Debug\net6.0\2. Sum Matrix Columns.csproj.CoreCompileInputs.cache
+C:\Users\ergel\source\repos\1. Sum Matrix Elements\2. Sum Matrix Columns\obj\Debug\net6.0\2. Sum Matrix Columns.dll
+C:\Users\ergel\source\repos\1. Sum Matrix Elements\2. Sum Matrix Columns\obj\Debug\net6.0\refint\2. Sum Matrix Columns.dll
+C:\Users\ergel\source\repos\1. Sum Matrix Elements\2. Sum Matrix Columns\obj\Debug\net6.0\2. Sum Matrix Columns.pdb
+C:\Users\ergel\source\repos\1. Sum Matrix Elements\2. Sum Matrix Columns\obj\Debug\net6.0\2. Sum Matrix Columns.genruntimeconfig.cache
+C:\Users\ergel\source\repos\1. Sum Matrix Elements\2. Sum Matrix Columns\obj\Debug\net6.0\ref\2. Sum Matrix Columns.dll
